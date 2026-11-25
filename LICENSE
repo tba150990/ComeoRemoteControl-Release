@@ -1,0 +1,76 @@
+WeLAControl Software License, Copyright & Disclaimer Notice
+Copyright (c) 2026 @tba150990 (https://github.com/tba150990)
+All rights reserved.
+
+===========================================================================
+1. COPYRIGHT & OWNERSHIP (BAN QUYEN PHAN MEM)
+===========================================================================
+The WeLAControl software suite — including:
+- WeLAControl-Android (Android & Tablet application)
+- WeLAControl-iOS (iPadOS & iOS application)
+- WeLA-DirectHost (Windows Host Control Center, Setup Bootstrap & scripts)
+
+original source code, user interface design, custom direct-LAN/VPN network
+protocol, virtual monitor orchestration, and documentation are:
+
+    Copyright (c) 2026 @tba150990 (https://github.com/tba150990)
+
+Third-party open-source and driver components remain the property of their
+respective copyright holders and are licensed under their respective terms
+(Apache License 2.0, MIT License, Mozilla Public License 2.0, BSD 3-Clause,
+PNG Reference Library License, and Parsec Cloud, Inc. WHQL driver notices).
+See THIRD_PARTY_NOTICES.md and each application's bundled licenses folder
+for complete third-party license texts.
+
+===========================================================================
+2. TERMS OF USE & DISCLAIMER OF WARRANTY (TUYEN BO TU CHOI TRACH NHIEM)
+===========================================================================
+[Tieng Viet]
+Phần mềm WeLAControl (gồm các bản Android .apk, iPadOS/iOS .ipa, Windows
+Host .exe/.bat và tài liệu kèm theo) được cung cấp theo nguyên trạng
+("AS IS" và "AS AVAILABLE"), KHÔNG KÈM BẤT KỲ CAM KẾT HAY BẢO ĐẢM NÀO,
+dù rõ ràng hay ngụ ý, bao gồm nhưng không giới hạn ở bảo đảm về khả năng
+vận hành ổn định, tính tương thích phần cứng/hệ điều hành, tính bảo mật
+tuyệt đối hay sự phù hợp cho một mục đích sử dụng cụ thể.
+
+Khi cài đặt hoặc sử dụng phần mềm, người dùng tự chịu toàn bộ rủi ro và
+trách nhiệm đối với mọi hậu quả có thể phát sinh. Tác giả (@tba150990) và
+các tác giả thư viện bên thứ ba KHÔNG CHỊU TRÁCH NHIỆM dưới bất kỳ hình
+thức nào đối với mọi sự cố, trục trặc hoặc thiệt hại trực tiếp, gián tiếp,
+ngẫu nhiên, đặc biệt hay hệ quả — bao gồm nhưng không giới hạn ở:
+  1. Mất mát, sai lệch hoặc hư hỏng dữ liệu, tệp tin, bản vẽ kỹ thuật.
+  2. Gián đoạn công việc, ngắt kết nối mạng LAN/Wi-Fi/VPN/4G/5G hoặc mất
+     quyền truy cập máy tính từ xa.
+  3. Xung đột hiển thị, màn hình đen, thay đổi độ phân giải, lỗi driver
+     màn hình ảo (ParsecVDD) hoặc lỗi cấu hình Firewall/Registry/Startup
+     trên Windows, Android hoặc iPadOS/iOS.
+  4. Rủi ro bảo mật phát sinh từ việc mở cổng mạng, chia sẻ tệp nội bộ,
+     lưu thông tin đăng nhập trên thiết bị cá nhân, đặt mật khẩu yếu hoặc
+     cấp quyền truy cập cho thiết bị không tin cậy.
+  5. Bất kỳ hư hại phần cứng, phần mềm hoặc tổn thất tài chính nào khác.
+
+Người dùng cam kết chỉ sử dụng phần mềm trên các thiết bị, tài khoản và
+hệ thống mạng thuộc quyền sở hữu hợp pháp của mình hoặc đã được chủ sở hữu
+cho phép rõ ràng. Việc tiếp tục cài đặt hoặc sử dụng phần mềm đồng nghĩa
+với việc bạn đã đọc, hiểu và chấp thuận toàn bộ các điều khoản này.
+
+[English]
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER (@tba150990) AND
+CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
+BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, COMPATIBILITY, SECURITY, AND NON-INFRINGEMENT ARE
+DISCLAIMED.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER (@tba150990) OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF DATA, FILES,
+OR DESIGNS; LOSS OF PROFITS OR BUSINESS INTERRUPTION; DISPLAY/DRIVER
+CONFLICTS; SYSTEM, NETWORK, FIREWALL, OR REGISTRY MISCONFIGURATION;
+UNAUTHORIZED ACCESS RESULTING FROM USER NETWORK OR CREDENTIAL SETTINGS;
+OR ANY HARDWARE/SOFTWARE MALFUNCTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Use only on computers, mobile devices, and networks that you own or have
+explicit authorization to access and administer.
