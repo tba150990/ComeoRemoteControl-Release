@@ -1,10 +1,10 @@
-# Third-Party Licenses & Legal Notices — WeLAControl
+# Third-Party Licenses & Legal Notices — Comeo Remote Control
 
-**WeLAControl Suite** (`v0.5.4`)  
+**Comeo Remote Control Suite** (`v0.5.7`)  
 **Copyright © 2026 @tba150990** (<https://github.com/tba150990>)  
 See [LICENSE](LICENSE) for primary ownership, terms of use, and full warranty/liability disclaimers.
 
-WeLAControl integrates, links against, or distributes the following third-party open-source libraries, build toolchains, and driver packages across **Android (`.apk`)**, **iPadOS/iOS (`.ipa`)**, and **Windows Host (`.exe`)**:
+Comeo Remote Control integrates, links against, or distributes the following third-party open-source libraries, build toolchains, and driver packages across **Android (`.apk`)**, **Windows Host (`.exe`)**, and **iPadOS/iOS (`.ipa`)**:
 
 ---
 
@@ -31,9 +31,9 @@ WeLAControl integrates, links against, or distributes the following third-party 
 ## Bundled In-App License Texts
 
 Full verbatim license texts are packaged inside every release artifact:
-- **Android APK:** `assets/licenses/` (`WeLA-COPYRIGHT-DISCLAIMER.txt`, `NOTICE.txt`, `FreeRDP-Apache-2.0.txt`, `OpenSSL-Apache-2.0.txt`, `Android-MPL-2.0.txt`, `parsec-vdd-MIT.txt`, `cJSON-MIT.txt`, `libpng-LICENSE.txt`, `uriparser-BSD-3-Clause.txt`, `SQLCipher-LICENSE.md`) and accessible in-app via `?` -> **Pháp lý & Giấy phép**.
-- **iPadOS/iOS IPA:** `Resources/assets/licenses/` and `Info.plist` (`NSHumanReadableCopyright`), accessible in-app via `?` -> **Phiên bản & Giấy phép**.
-- **Windows Host EXE / Setup:** [`WeLA-DirectHost/THIRD_PARTY_LICENSES.txt`](WeLA-DirectHost/THIRD_PARTY_LICENSES.txt), `WeLADirectHost.exe` assembly copyright metadata, and Tab **Pháp lý & Giấy phép (Legal)** inside the PC Control Center window.
+- **Android APK:** `assets/licenses/` (`Comeo-COPYRIGHT-DISCLAIMER.txt`, `NOTICE.txt`, `FreeRDP-Apache-2.0.txt`, `OpenSSL-Apache-2.0.txt`, `Android-MPL-2.0.txt`, `parsec-vdd-MIT.txt`, `cJSON-MIT.txt`, `libpng-LICENSE.txt`, `uriparser-BSD-3-Clause.txt`, `SQLCipher-LICENSE.md`) and accessible in-app via `?` -> **Pháp lý & Giấy phép / Legal & Licenses**.
+- **Windows Host EXE / Setup:** [`THIRD_PARTY_LICENSES.txt`](WeLA-DirectHost/THIRD_PARTY_LICENSES.txt), `ComeoDirectHost.exe` assembly copyright metadata, and Tab **Pháp lý & Giấy phép / Legal & Licenses** inside the PC Control Center window.
+- **iPadOS/iOS IPA (v0.5.4):** `Resources/assets/licenses/` and `Info.plist` (`NSHumanReadableCopyright`).
 
 ---
 
@@ -46,7 +46,7 @@ Full verbatim license texts are packaged inside every release artifact:
 3. **parsec-vdd (MIT License):**  
    Copyright (c) 2023 Nguyen Duy <wuuyi123@gmail.com> (<https://github.com/nomi-san/parsec-vdd>).
 4. **Parsec Virtual Display Adapter Driver (`Root\Parsec\VDA` v0.45):**  
-   The driver files `mm.inf`, `mm.dll`, and `mm.cat` under `WeLA-DirectHost/vdd-driver/driver/` are WHQL-signed binaries copyrighted by **Parsec Cloud, Inc.** (<https://parsec.app>).
+   The driver files `mm.inf`, `mm.dll`, and `mm.cat` under `vdd-driver/driver/` are WHQL-signed binaries copyrighted by **Parsec Cloud, Inc.** (<https://parsec.app>).
 5. **Nefarius `nefconw.exe` (MIT License):**  
    Copyright (c) Nefarius Software Solutions e.U. (<https://github.com/nefarius/nefcon>). Used during Windows host setup to install/remove the `Root\Parsec\VDA` device node.
 6. **aFreeRDP Android Bridge (MPL-2.0):**  
