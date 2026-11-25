@@ -1,14 +1,14 @@
-WeLAControl Software License, Copyright & Disclaimer Notice
+Comeo Remote Control Software License, Copyright & Disclaimer Notice
 Copyright (c) 2026 @tba150990 (https://github.com/tba150990)
 All rights reserved.
 
 ===========================================================================
 1. COPYRIGHT & OWNERSHIP (BAN QUYEN PHAN MEM)
 ===========================================================================
-The WeLAControl software suite — including:
-- WeLAControl-Android (Android & Tablet application)
-- WeLAControl-iOS (iPadOS & iOS application)
-- WeLA-DirectHost (Windows Host Control Center, Setup Bootstrap & scripts)
+The Comeo Remote Control software suite — including:
+- Android & Tablet application (Comeo Remote Control)
+- iPadOS & iOS application
+- Windows Host Control Center (Comeo Direct LAN Host, Setup & scripts)
 
 original source code, user interface design, custom direct-LAN/VPN network
 protocol, virtual monitor orchestration, and documentation are:
@@ -26,8 +26,8 @@ for complete third-party license texts.
 2. TERMS OF USE & DISCLAIMER OF WARRANTY (TUYEN BO TU CHOI TRACH NHIEM)
 ===========================================================================
 [Tieng Viet]
-Phần mềm WeLAControl (gồm các bản Android .apk, iPadOS/iOS .ipa, Windows
-Host .exe/.bat và tài liệu kèm theo) được cung cấp theo nguyên trạng
+Phần mềm Comeo Remote Control (gồm các bản Android .apk, iPadOS/iOS .ipa,
+Windows Host .exe/.bat và tài liệu kèm theo) được cung cấp theo nguyên trạng
 ("AS IS" và "AS AVAILABLE"), KHÔNG KÈM BẤT KỲ CAM KẾT HAY BẢO ĐẢM NÀO,
 dù rõ ràng hay ngụ ý, bao gồm nhưng không giới hạn ở bảo đảm về khả năng
 vận hành ổn định, tính tương thích phần cứng/hệ điều hành, tính bảo mật
